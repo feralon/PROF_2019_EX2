@@ -1,9 +1,7 @@
 package es.upm.fernando.alonso.PROF_2019_EX2;
 
 import static org.junit.Assert.assertArrayEquals;
-
-import org.junit.*;
-
+import org.junit.Test;
 /**
 * 
 * @author Fernando
